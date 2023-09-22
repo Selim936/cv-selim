@@ -1,6 +1,18 @@
 # cv-selim
 ## Competances
-j'ai des competances en SISR
+- Developprmrnt
+- Systéme
+- Virtuamisation
+- Réseaux
+- Cypersécurité
+- Eco-Gestion
+
+### Gestion de projet
+### Développement
+- HTML
+- CSS
+### Cybersécurité
+
 ### systéme
 - windows serveur
 - linux
