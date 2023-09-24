@@ -16,6 +16,6 @@
 ### systéme
 - windows serveur
 - linux
-- vzx
+
 ### dev
 Javascript
