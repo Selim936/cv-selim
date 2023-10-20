@@ -2,6 +2,7 @@
 - Gestion de Projet
 - Systéme
 - Virtualisation
+- Outils de développemment
 - Developpement
 - Réseaux
 - Cypersécurité
@@ -16,7 +17,11 @@
 
  ### Virtualisation
 - Virtualbox
-  
+
+### Outils de développemment
+  - Visual Studio Code
+  - NotePad++
+
 ### Développement
 - Html
 - Css
