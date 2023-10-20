@@ -31,9 +31,10 @@
 
 ### Réseaux
 - Cisco Packet Tracer
+- LinuxSurvival
 
 ### Cybersécurité
-- LinuxSurvival
+- Droit informatique
 
 ### Base de donnée
 - Laragon
