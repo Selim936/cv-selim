@@ -1,9 +1,9 @@
-# Competances
+# Compétances
 - Gestion de Projet
 - Systéme
 - Virtualisation
 - Outils de développemment
-- Developpement
+- Développement
 - Réseaux
 - Cypersécurité
 - Base de donnée
