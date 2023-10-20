@@ -7,6 +7,7 @@
 - Réseaux
 - Cypersécurité
 - Base de donnée
+- Culture économique manageriale et juridique
 
 ### Gestion de projet
 - GitHub
@@ -38,6 +39,9 @@
 
 ### Base de données
 - Laragon
+
+### Culture économique manageriale et juridique
+- Analyse de documents
 
 
 
