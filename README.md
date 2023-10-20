@@ -12,9 +12,9 @@
 ### Gestion de projet
 - Analyse des besoins
 
-### Systéme
-- Windows serveur
-- Linux
+### Système
+- Windows (PowerShell)
+- Linux (Bash) 
 
  ### Virtualisation
 - Virtualbox
@@ -32,16 +32,17 @@
 - Sql
 - Mk
 - Github
+- Phyton
+- Laragon
 
 ### Réseaux
 - Cisco Packet Tracer
-- LinuxSurvival
 
 ### Cybersécurité
 - Droit informatique
 
 ### Base de données
-- Laragon
+- Sql
 
 ### Culture économique manageriale et juridique
 - Analyse de documents
