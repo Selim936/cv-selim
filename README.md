@@ -1,4 +1,4 @@
-# Compétances
+# Compétences
 - Gestion de Projet
 - Systéme
 - Virtualisation
