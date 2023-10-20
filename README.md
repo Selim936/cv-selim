@@ -22,6 +22,8 @@
 ### Outils de développemment
   - Visual Studio Code
   - NotePad++
+  - GitHub
+  - Git
 
 ### Développement
 - Html
