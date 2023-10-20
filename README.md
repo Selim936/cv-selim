@@ -1,21 +1,39 @@
-# cv-selim
-## Competances
-- Developprmrnt
+# Competances
+- Gestion de Projet
 - Systéme
-- Virtuamisation
+- Virtualisation
+- Developpement
 - Réseaux
 - Cypersécurité
-- Eco-Gestion
+- Base de donnée
 
 ### Gestion de projet
+- GitHub
+
+### Systéme
+- Windows serveur
+- Linux
+
+ ### Virtualisation
+- Virtualbox
+  
 ### Développement
-- HTML
-- CSS
+- Html
+- Css
+- Php
+- Sql
+- Mk
+
+### Réseaux
+- Cisco Packet Tracer
+
 ### Cybersécurité
+- LinuxSurvival
 
-### systéme
-- windows serveur
-- linux
+### Base de donnée
+- Laragon
 
-### dev
-Javascript
+
+
+
+
