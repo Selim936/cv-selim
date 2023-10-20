@@ -10,7 +10,7 @@
 - Culture économique manageriale et juridique
 
 ### Gestion de projet
-- GitHub
+- Analyse des besoins
 
 ### Systéme
 - Windows serveur
@@ -29,6 +29,7 @@
 - Php
 - Sql
 - Mk
+- Github
 
 ### Réseaux
 - Cisco Packet Tracer
