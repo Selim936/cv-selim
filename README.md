@@ -36,7 +36,7 @@
 ### Cybersécurité
 - Droit informatique
 
-### Base de donnée
+### Base de données
 - Laragon
 
 
